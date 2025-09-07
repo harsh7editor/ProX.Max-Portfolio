@@ -1,3 +1,8 @@
+
+<img width="522" height="1075" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/3feb8e9d-7498-4e46-bc9f-eeaba1c2cceb" />
+
+
+
 # React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
